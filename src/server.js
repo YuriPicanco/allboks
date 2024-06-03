@@ -19,5 +19,5 @@ server.use(
 server.use(router); //rotas na prota 3000
 
 server.listen(8000, () => {
-  console.log("API online em http://localhost:8000");
+  console.log("API diponível em http://localhost:8000");
 });
